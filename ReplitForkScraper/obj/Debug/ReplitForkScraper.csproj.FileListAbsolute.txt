@@ -1,0 +1,11 @@
+C:\Users\lun4r\OneDrive\Desktop\Projects\ReplitForkScraper\ReplitForkScraper\obj\Debug\ReplitForkScraper.csproj.AssemblyReference.cache
+C:\Users\lun4r\OneDrive\Desktop\Projects\ReplitForkScraper\ReplitForkScraper\obj\Debug\ReplitForkScraper.csproj.SuggestedBindingRedirects.cache
+C:\Users\lun4r\OneDrive\Desktop\Projects\ReplitForkScraper\ReplitForkScraper\obj\Debug\ReplitForkScraper.csproj.CoreCompileInputs.cache
+C:\Users\lun4r\OneDrive\Desktop\Projects\ReplitForkScraper\ReplitForkScraper\bin\Debug\ReplitForkScraper.exe.config
+C:\Users\lun4r\OneDrive\Desktop\Projects\ReplitForkScraper\ReplitForkScraper\bin\Debug\ReplitForkScraper.exe
+C:\Users\lun4r\OneDrive\Desktop\Projects\ReplitForkScraper\ReplitForkScraper\bin\Debug\ReplitForkScraper.pdb
+C:\Users\lun4r\OneDrive\Desktop\Projects\ReplitForkScraper\ReplitForkScraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lun4r\OneDrive\Desktop\Projects\ReplitForkScraper\ReplitForkScraper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lun4r\OneDrive\Desktop\Projects\ReplitForkScraper\ReplitForkScraper\obj\Debug\ReplitForkScraper.csproj.CopyComplete
+C:\Users\lun4r\OneDrive\Desktop\Projects\ReplitForkScraper\ReplitForkScraper\obj\Debug\ReplitForkScraper.exe
+C:\Users\lun4r\OneDrive\Desktop\Projects\ReplitForkScraper\ReplitForkScraper\obj\Debug\ReplitForkScraper.pdb
