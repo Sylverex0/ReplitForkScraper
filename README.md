@@ -14,5 +14,3 @@ NormalUsage =>
 ```cmd
 ReplitForkScraper.exe /@user/repo no
 ```
-
-One of my last concurrent projects prob, learning networking
